@@ -1,0 +1,7 @@
+# Keep secrets and personal data out of deployments
+.env
+.env.*
+data
+uploads
+.claude
+node_modules
